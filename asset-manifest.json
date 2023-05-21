@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Google_Bard/static/css/main.1d10fc9d.css",
+    "main.js": "/Google_Bard/static/js/main.c97b9256.js",
+    "index.html": "/Google_Bard/index.html",
+    "main.1d10fc9d.css.map": "/Google_Bard/static/css/main.1d10fc9d.css.map",
+    "main.c97b9256.js.map": "/Google_Bard/static/js/main.c97b9256.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d10fc9d.css",
+    "static/js/main.c97b9256.js"
+  ]
+}
