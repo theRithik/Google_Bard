@@ -7,9 +7,7 @@ transition: 0.3s;
  height: 100%;
 
 }
-#navbutton.sideMenu::-webkit-scrollbar{
-    width: 1px;
-}
+
 
 
 .nav-item{
@@ -184,3 +182,48 @@ box-shadow: none;
     line-height: 1rem;
     margin: 12px 0 15px 0;
 }
+@media only screen and (max-width: 1200px) {
+#cardBody{
+    width:85%
+}
+#cardBody.cardEdit{
+width:70%
+}
+#ending{
+    width:85%
+}
+#ending.endSearch{
+    width:70%;
+}
+#navbutton{
+    margin-left: -250px;
+}
+}
+
+ @media only screen and (max-width:950px){
+    #searchBar{
+        width:80%
+    }
+} 
+@media only screen and (max-width: 770px) {
+    
+#navbutton{
+  margin-top: 50px;  
+  z-index: 1;
+  background-color: white;
+  margin-left: -250px;
+
+} 
+#navbutton.sideMenu{
+    margin-top: 50px;  
+z-index: 1;
+background-color: white;
+}
+#cardBody{
+    z-index: -1;
+    position: fixed;
+}
+#searchBar{
+    width:80%
+}
+  }
