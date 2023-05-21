@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Google_Bard/static/css/main.1d10fc9d.css",
-    "main.js": "/Google_Bard/static/js/main.7ba1b296.js",
+    "main.css": "/Google_Bard/static/css/main.1c4312b0.css",
+    "main.js": "/Google_Bard/static/js/main.5ec90581.js",
     "index.html": "/Google_Bard/index.html",
-    "main.1d10fc9d.css.map": "/Google_Bard/static/css/main.1d10fc9d.css.map",
-    "main.7ba1b296.js.map": "/Google_Bard/static/js/main.7ba1b296.js.map"
+    "main.1c4312b0.css.map": "/Google_Bard/static/css/main.1c4312b0.css.map",
+    "main.5ec90581.js.map": "/Google_Bard/static/js/main.5ec90581.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d10fc9d.css",
-    "static/js/main.7ba1b296.js"
+    "static/css/main.1c4312b0.css",
+    "static/js/main.5ec90581.js"
   ]
 }
