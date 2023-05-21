@@ -1,0 +1,186 @@
+
+
+#navbutton{
+margin-top: 5%;
+transition: 0.3s;
+ margin-left: -15%;
+ height: 100%;
+
+}
+#navbutton.sideMenu::-webkit-scrollbar{
+    width: 1px;
+}
+
+
+.nav-item{
+padding-left:20px ;
+padding-bottom: 10px;
+padding-top: 10px;
+padding-right: 60px;
+cursor: pointer;
+}
+
+.nav-item:hover{
+    background-color: rgba(235, 227, 227, 0.38);
+    border-radius: 1px 40px 40px 1px;
+}
+
+
+#navbutton.sideMenu{
+    margin-top: 5%;
+    transition: 0.3s;
+    margin-left: 0%;
+    height: 100%;
+
+} 
+
+/* 
+.navbar>.container-fluid {
+justify-content: flex-start;
+} */
+
+
+#svgNav:hover{
+    border-radius: 20px;
+    background-color:rgba(179, 173, 173, 0.233);
+    
+   
+}
+
+.navFont{
+    font-family: 'Roboto';
+    color: rgb(87, 84, 84);
+    font-size: 19px;
+    font-weight: 500;
+    margin-top: 2px;
+   
+}
+.navFontP{
+    font-size: 12px;
+    display: inline;
+    border: 1px solid;
+    border-radius: 5px;
+    padding-left :4px;
+    padding-right: 4px;
+    font-weight: 500;
+    margin-left: 5px;
+}
+ 
+  #svgNav{
+  margin-left: 5px;
+ 
+  height: 40px;
+  padding: 10px;
+  
+    
+} 
+span.navbar-brand {
+    box-sizing: unset;
+    margin-right: 8px;
+}
+
+#cardBody{
+    font-family:sans-serif;
+    font-weight: 500;
+    border: transparent;
+    border-radius: 20px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 30px;
+    width: 90%;
+    height:87%;
+   margin-top: 5px;
+   position: fixed;
+   right: 50px;
+   top:60px;
+   transition: 0.3s;
+   display:"inline-block";
+   background-color:"#f3f6fc";
+   
+}
+/* #cardBody.cardEdit.darkTheme{
+    background-color: rgb(0, 0, 0);
+} */
+
+#cardBody.cardEdit{
+   width:950px;
+   height:87%;;
+   transition: 0.3s;
+}
+.cardInside{
+    background-color:#ffffff;
+    border: transparent;
+    border-radius: 20px;
+    padding: 20px;
+    padding-right: 50px;
+    margin-bottom: 10px;
+}
+.cardLetters{   
+    display: inline;
+    font-size: 1rem;
+    font-weight: 540;
+  margin-top: 10px;
+}
+
+.anchorTag{
+    font-size: 16px;
+    text-decoration: none;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+
+
+#searchBar{
+    height: 60px;
+    width: 90%;
+    border-radius: 60px;
+    padding-left: 30px;
+    margin-left: 30px;
+    border: 1px solid grey;
+display: inline-block;
+border: 2px solid #0d6ef0;
+box-shadow: none;
+}
+#searchBar.searchStyle{
+    background-color: #222327;
+    color: white;
+    border-color: white;
+
+}
+#searchBar.searchStyle::placeholder{
+    color: white;
+    opacity: 1;
+}
+
+
+.sendArrow{
+    width: 20px;
+    height:20px;
+    opacity: 0.5;
+}
+
+.micImage{
+    width:15px;
+    position: relative;
+    right:50px
+}
+
+#ending{
+    width: 90%;
+    background-color:#f3f6fc ;
+    transition: 0.3s;
+    margin-bottom: 0;
+    border-radius: 0 0 40px 40px;
+} 
+#ending.endSearch{
+    width:950px;
+    transition: 0.3s;
+}
+.footer{
+    font-size: .75rem;
+    text-align: center;
+    color: #444746;
+    line-height: 1rem;
+    margin: 12px 0 15px 0;
+}
