@@ -57,8 +57,8 @@ document.getElementById("ending").classList.toggle("endSearch")
     </div>
     
    
-  <div className="d-flex me2 "><span className="me-3"><img  style={{width:"20px",height:"20px"}} src="/grid_icon.png" alt="grid"/></span>
- <span className="me-1"><img src="/photoIcon.jpg"  style={{width:"30px", borderRadius:"50px"}} alt="profile"/></span> 
+  <div className="d-flex me2 "><span className="me-3"><img  style={{width:"20px",height:"20px"}} src="https://cdn3.iconfinder.com/data/icons/faticons/32/grid-2-01-1024.png" alt="grid"/></span>
+ <span className="me-1"><img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"  style={{width:"30px", borderRadius:"50px"}} alt="profile"/></span> 
   </div>
   </div>
 </nav>
