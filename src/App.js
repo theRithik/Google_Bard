@@ -2,14 +2,16 @@ import React from "react";
 import "./styles.css"
 
 const App =()=>{
-   function handleClick(){
+
+
+   const  handleClick=()=>{
    document.getElementById("navbutton").classList.toggle("sideMenu")
    document.getElementById("theme").classList.toggle("themeEdit")
 document.getElementById("cardBody").classList.toggle("cardEdit")
 document.getElementById("ending").classList.toggle("endSearch")
     }
 
-  function clicked(){
+  const clicked=()=>{
     console.log("clicked")
   
   var element = document.getElementById('value')
